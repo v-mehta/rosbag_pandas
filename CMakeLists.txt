@@ -12,8 +12,9 @@ catkin_package()
 #############
 
 install(PROGRAMS
-  scripts/bag2csv.py
-  scripts/bag_graph.py
+  scripts/bag_csv
+  scripts/bag_graph
+  scripts/bag_print
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
