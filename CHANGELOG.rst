@@ -2,8 +2,8 @@
 Changelog for package rosbag_pandas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.1 (2018-11-02)
+------------------
 * Refactor rosbag_pandas
   - Support dynamic arrays
   - Key pattern specification conform rostopic msgevalgen
