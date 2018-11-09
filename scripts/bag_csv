@@ -12,7 +12,7 @@ def build_parser():
     :return: The argument parser
     """
     parser = argparse.ArgumentParser(description='Script to parse bagfile to csv file')
-    parser.add_argument('-b', '--bag', help='Bag file to read',
+    parser.add_argument('-b', '--bag', help='Bag file to read', required=True,
                         type=str)
     parser.add_argument('-i', '--include',
                         help='List for topics to include',
@@ -20,7 +20,7 @@ def build_parser():
     parser.add_argument('-e', '--exclude',
                         help='List for topics to exclude',
                         nargs='*')
-    parser.add_argument('-o', '--output', help='name of the output file')
+    parser.add_argument('-o', '--output', help='name of the output file', required=True)
     parser.add_argument('-v', '--verbose',
                         help="Log verbose",
                         default=False, action="store_true")
