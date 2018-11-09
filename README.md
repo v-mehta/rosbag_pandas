@@ -1,5 +1,7 @@
 # rosbag_pandas
 
+[![Build Status](https://travis-ci.org/eurogroep/rosbag_pandas.svg?branch=master)](https://travis-ci.org/eurogroep/rosbag_pandas)
+
 Python library (and some tools) for converting [ROS bagfiles](http://wiki.ros.org/rosbag) to [Pandas dataframes](https://pandas.pydata.org/).
 
 ## Python library
