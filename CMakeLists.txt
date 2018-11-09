@@ -13,7 +13,7 @@ catkin_package()
 
 install(PROGRAMS
   scripts/bag_csv
-  scripts/bag_graph
+  scripts/bag_plot
   scripts/bag_print
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
