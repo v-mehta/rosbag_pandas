@@ -2,8 +2,8 @@
 Changelog for package rosbag_pandas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.2 (2019-02-27)
+------------------
 * Update .travis.yml
 * Update README.md
 * only module import
