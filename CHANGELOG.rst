@@ -2,6 +2,14 @@
 Changelog for package rosbag_pandas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update .travis.yml
+* Update README.md
+* only module import
+* required arguments
+* Contributors: Rein Appeldoorn
+
 0.5.1 (2018-11-02)
 ------------------
 * Refactor rosbag_pandas
