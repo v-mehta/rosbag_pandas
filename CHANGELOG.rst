@@ -2,8 +2,8 @@
 Changelog for package rosbag_pandas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.3 (2019-03-21)
+------------------
 * flatdict dep in package
 * Contributors: Rein Appeldoorn
 
