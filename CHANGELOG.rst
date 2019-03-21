@@ -2,6 +2,11 @@
 Changelog for package rosbag_pandas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* flatdict dep in package
+* Contributors: Rein Appeldoorn
+
 0.5.2 (2019-02-27)
 ------------------
 * Update .travis.yml
