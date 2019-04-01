@@ -74,6 +74,14 @@ optional arguments:
   -v, --verbose         Log verbose
 ```
 
+#### Example
+
+```
+bag_plot -b 2019-01-16-14-14-37.bag -k /cmd_vel/linear/x /cmd_vel/angular/z -c
+```
+
+![bag_plot](doc/bag_plot.png)
+
 ### bag_print
 
 Print a key (or multiple keys) in a ROS bag file:
