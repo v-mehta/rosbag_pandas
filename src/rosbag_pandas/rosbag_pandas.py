@@ -2,10 +2,11 @@
 
 import logging
 
-import flatdict
 import numpy as np
 import pandas as pd
 import rosbag
+
+import rosbag_pandas.flatdict as flatdict
 from rospy_message_converter.message_converter import convert_ros_message_to_dictionary
 
 
